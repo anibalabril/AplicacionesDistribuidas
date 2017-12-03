@@ -6,6 +6,8 @@ public class prueba {
 		// TODO Auto-generated method stub
 			//hola me llamo anibal
 		//jhkjgjhffghjkl
+	 String ho="hola";
+	 String hol="hola";
 	}
 
 
